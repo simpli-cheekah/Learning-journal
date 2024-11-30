@@ -14,14 +14,58 @@ Welcome to my learning journal! This repository is where I document my journey i
 
 ## Daily Progress
 ### Day 1: HTML Basics
-- Learned the structure of an HTML document:
-  - <html>: Root element.
-  - <head>: Contains metadata and links to resources.
-  - <body>: Contains the visible content.
-- Practiced using common tags:
-  - Headings (<h1> to <h6>)
-  - paragraphs( <p> )
-  - lists( <ul>,<ol>,<li>)
+Day 1: Introduction to Front-End Development
+
+Course: Meta Front-End Developer Certificate (Coursera)
+Module: 1 - Introduction to Front-End Development
+
+
+---
+
+What I Learned
+
+1. What is Front-End Development?
+
+Focuses on creating the visible and interactive parts of a website or application.
+
+Involves combining design and functionality for user experience.
+
+2. What is a Webpage?
+
+A document displayed in a browser.
+
+Built using:
+
+HTML: Structure (e.g., headings, text, links).
+
+CSS: Styling (e.g., layout, colors, fonts).
+
+JavaScript: Interactivity (e.g., forms, buttons).
+
+3. How Browsers Work:
+
+Browsers (e.g., Chrome, Safari) interpret HTML, CSS, and JavaScript to render webpages.
+
+4. Role of Front-End Developers:
+
+Build and style user interfaces.
+
+Ensure responsiveness on different devices.
+
+Test for compatibility across browsers.
+
+5. Career Opportunities:
+
+Roles include Front-End Developer, Web Designer, and UI/UX Designer.
+
+6. Tools Used:
+
+Code editors like Visual Studio Code.
+Git and GitHub for version control.
+Browsers for testing and debugging.
+
+7. Importance of Responsive design
+Adapts webpages for various screen sizes, ensuring usability on all devices.
 
  
 ## How to View
@@ -51,8 +95,8 @@ as gaining expertise in deploying amd managing applications in the cloud.
 Here are my specific goals moving forward:
 1.FRONT-END DEVELOPMENT
 -Deepen my knowledge of HTML, CSS and Javascript
--learn modern front-end frameworks like React and vue.js
--learn responsive designing
+-*learn modern front-end frameworks like React and vue.js*
+-*learn responsive designing*
 -learm DOM manipulation
 -learn about version controls
 -Build responsive,user friendly websites and applications
